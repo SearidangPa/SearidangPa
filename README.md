@@ -2,6 +2,4 @@
 
 
 I also love implementing machine learning to challenging problems and working on projects that seek to understanding the low-level system optimization. 
-My dream is to To work in an open-minded and inspiring group to tackle challenging, beautiful, 
-and impactful problems that would add positive values to the world in the present and in the future. 
-You can reach me at pa.s@northeastern.edu. 
+My dream is to to work in an open-minded and inspiring group that tackles challenging, beautiful, and impactful problems that would add positive values to the world in the present and in the future. You can reach me at pa.s@northeastern.edu. 
